@@ -4,8 +4,12 @@
 
 I am a final-year Computer Science student with a passion for software development and cybersecurity. Skilled in app development, 3D modeling, and problem-solving, I leverage technology to create impactful solutions.
 
+---
+
 ## Professional Summary
 Computer Science student with hands-on experience in developing applications like *Releaf*, a carbon footprint tracking app, along with a solid foundation in cybersecurity and 3D modeling. Eager to apply my technical and problem-solving skills in real-world projects.
+
+---
 
 ## Skills
 | Skill                                         | Associated Project         |
@@ -16,12 +20,16 @@ Computer Science student with hands-on experience in developing applications lik
 | Cross-Platform Development with Flutter       | <a href="https://github.com/yourusername/AudioEbookPlayer">E-Book with Audio Player</a> |
 | Fast Learner, Team Leadership, Communication  | Demonstrated through *Releaf* app development |
 
+---
+
 ## Programming Languages
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
     <img src="https://img.shields.io/badge/-Swift-FA7343?&style=for-the-badge&logo=Swift&logoColor=white" />
 </div>
+
+---
 
 ## Tools
 ### Development
@@ -38,11 +46,15 @@ Computer Science student with hands-on experience in developing applications lik
     <img src="https://img.shields.io/badge/-Canva-00C4CC?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
 
+---
+
 ## Certifications
 <div>
-    <img src="https://img.shields.io/badge/-Cybersecurity_Verzo_Nov_2022-Dec_2022-FF5733?&style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cybersecurity_AICET_Palo_Alto_May-Jul_2023-007396?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cybersecurity_Verzo_Nov_2022_to_Dec_2022-FF5733?&style=for-the-badge&logo=OpenVPN&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cybersecurity_AICET_Palo_Alto_May_to_July_2023-007396?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
 </div>
+
+---
 
 ## Projects
 - [Releaf App](https://github.com/yourusername/ReleafApp) - Carbon footprint tracking app
